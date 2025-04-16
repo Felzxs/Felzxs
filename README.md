@@ -7,7 +7,7 @@
 
 ---
 
-### Developing tools I mainly use
+### These are the developing tools I mainly use
 
 <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Spyder-838485?style=flat&logo=spyder%20ide&logoColor=maroon"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
@@ -26,12 +26,7 @@
 
 ---
 ### My github stats:
-
 <a href="https://github.com/NullQuasar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NullQuasar&theme=github_dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullQuasar&theme=github_dark&layout=compact" />
 </a>
-
-
-
----
